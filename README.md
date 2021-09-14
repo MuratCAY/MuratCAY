@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Murat
 #### I'm a Native Mobile Developer 
-![I'm a Native Mobile Developer ](https://c.tenor.com/UtDDYMjGNCwAAAAC/darkmatter-android.gif)
+![I'm a Native Android Developer ](https://c.tenor.com/UtDDYMjGNCwAAAAC/darkmatter-android.gif)
 
 💻 I’m currently working on Native Android Application
 🌱 I’m currently learning mobile development
