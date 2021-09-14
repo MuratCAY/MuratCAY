@@ -3,8 +3,11 @@
 ![I'm a Native Mobile Developer ](https://c.tenor.com/UtDDYMjGNCwAAAAC/darkmatter-android.gif)
 
 💻 I’m currently working on Native Android Application
+
 🌱 I’m currently learning mobile development
+
 🥅 2021 Goals: Created more projects about Android
+
 ⚡ Fun fact: I love to write code
 
 Skills: ANDROID / KOTLIN / JAVA 
