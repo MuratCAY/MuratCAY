@@ -2,17 +2,13 @@
 #### I'm a Native Mobile Developer 
 ![I'm a Native Android Developer ](https://c.tenor.com/UtDDYMjGNCwAAAAC/darkmatter-android.gif)
 
-💻 I’m currently working on Native Android Application
-🌱 I’m currently learning mobile development
-🥅 2021 Goals: Created more projects about Android
-⚡ Fun fact: I love to write code
 
 Skills: ANDROID / KOTLIN / JAVA 
 
-- 🔭 I’m currently working on I’m currently working on Native Android Application 
-- 🌱 I’m currently learning I’m currently learning mobile development 
+- 🔭 I’m currently working on Native Android Application 
+- 🌱 I’m currently learning mobile development 
 - 📫 How to reach me: muratthebestof@gmail.com 
-- 😄 Pronouns:  Fun fact: I love to write code 
+- 🥅 2021 Goals: Created more projects about Android
 - ⚡ Fun fact:  Fun fact: I love to write code 
 
 
