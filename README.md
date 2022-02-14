@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Murat
 #### I'm a Native Mobile Developer 
-![I'm a Native Android Developer ](https://blog.cambly.com/tr/wp-content/uploads/sites/5/2019/08/simple-present-tense-kullanim-yerleri.gif)
+![I'm a Native Android Developer ](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 
 Skills: ANDROID / KOTLIN / JAVA 
