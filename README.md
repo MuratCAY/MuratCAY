@@ -13,7 +13,7 @@ Skills: ANDROID / KOTLIN / JAVA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MuratCAY)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/murat-cay24/)
+[<img src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644831024~hmac=2394f923662c3523d3a2abd252a2347e' alt='linkedin' height='40'>](https://www.linkedin.com/in/murat-cay24/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://mobile.twitter.com/murat_cay24)
 [<img src='https://developer.android.com/images/logos/android.svg' alt='android' height='40'>](https://developer.android.com)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://meta.stackoverflow.com/users/15870867/murat-%c3%87ay)
