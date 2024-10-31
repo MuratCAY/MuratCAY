@@ -7,7 +7,6 @@ Skills: ANDROID / KOTLIN / JAVA
 
 - 🔭 I’m currently working on Native Android Application 
 - 🌱 I’m currently learning mobile development 
-- 📫 How to reach me: muratthebestof@gmail.com 
 - 🥅 2021 Goals: Created more projects about Android
 - ⚡ Fun fact:  Fun fact: I love to write code 
 
